@@ -1,0 +1,16 @@
+{
+  "name": "phonecat",
+  "description": "Phonecat Tutorial Ahgular App",
+  "authors": [
+    "AnjelikaV"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "1.5.x",
+    "angular-animate": "1.5.x",
+    "angular-mocks": "1.5.x",
+    "angular-resource": "1.5.x",
+    "angular-route": "1.5.x"
+  }
+}
